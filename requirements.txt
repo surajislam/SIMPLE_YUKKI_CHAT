@@ -1,6 +1,8 @@
-asyncio
+pyrogram==2.0.106
+pymongo==4.7.0
+motor==3.4.0
+requests==2.31.0
 dnspython
-motor
-pyrogram==1.4.16
-python-dotenv
-tgcrypto
+tgcrypto==1.2.5
+asyncio==3.4.3
+python-dotenv==1.0.1
